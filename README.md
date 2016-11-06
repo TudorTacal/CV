@@ -7,28 +7,35 @@ I am a junior web developer with a background in business development. I have mo
 
 Up to this point I have faced the troubled waters of entrepreneurship by building and managing 2 small businesses in my home country, Romania. This experience has been of tremendous value because it showed me what it means to be the leader and exposed me to an evironment of uncertainity and never ending problems that pushed me consitently to find solutions and move forward. After intense analysis I decided to get into tech, my original passion, and where to do it better than in London, Europe's technology capital.     
 
-Now I am very excited to join a company where I will work on scalable web apps, in an collaboratively environment, with friendly people who really care about the results they produce. Perhaps a well established digital agency would be the perfect match but the entrepreneur in would also prefer a solid startup. Either way, my goals are to continuously improve the value that I am bringing to the company and to nurture meaningful relationships with my colleagues.
+Now I am very excited to join a company where I will work on scalable software, in an collaboratively environment, with friendly people who really care about the results they produce. Perhaps a well established digital agency or a consultancy company would be the perfect match but the entrepreneur in me would also join a solid startup. Either way, my goals are to continuously improve the value that I am bringing to the company and to nurture meaningful relationships with my colleagues.
 
 
 ## Skills
 
 #### Planning
-*the plan made to get here
-*organization
-*prioritizing
-*perseverance and motivation
 
+To arrive at this point I have planned extensively and in great detail every single step. It started with the decision to exit my businesses and move to London to become a web developer. From that moment I started to gather, organize and analyze the available data which also meant choosing the best course of action from a multitude of possibilities.  
+
+Reduced to a short sequence I had to : Sell 1 business and handover 2 others -> Move in the UK through an agency -> Move to London and get the best position with a tech company -> Join Makers Academy -> Acquire the foundation of web development -> Join the perfect company as a junior web developer.
+
+It might look simple and easy but the reality was far from that. Every step involved a cosniderable amount of hard work as well as proper challenges. Through perseverance and motivation I worked the system and succesfully accomplished my goals one step at a time. I learnt to use the same approach while designing software and solving problmes.   
 
 #### Communication
-*explain the use of communication in all the places worked so far starting with Stream, the Forge, moving down.
-*customer service
-*teamwork
-*positive energy
 
-#### Problem Solving
-*What relevant examples can i include here?
-*confidence
+Throughout my career communication played a massive role in the success of my development. Whether it was in real estate, the fitness industry, agriculture, tourism or high tech in London I have always worked directly with many different types of people in client facing roles. 
 
+The biggest benefit I've drawn from proper communication is a positive attitude. I have passionately studied body language, NLP, nogotiation, influence and applied the knowledge not only in my professional life but also in my everyday life. By expressing myself with friendliness, respect and empathy I managed to reduce the most serious complaints to easy to solve problems when working at The Forge hotel in East Sussex. Presenting with clarity and concision I've held highly technical product demostrations to non-technical clients when working at StreamAMG. The biggest challenge was to read if the client really understood what was going on or just nodded in agreement. This involved asking guiding questions and careful active listening for the slightest feedback regarding the product. 
+
+From my point of view communication and interpersonal skills are one of the biggest assets a professional must possess, no matter the industry he works in. As I have seen entire businesses and departments being successful or being disrupted by the actions of a single individual. 
+
+
+#### Team Work
+
+I am highly adaptable to any environment. I start slowly, take my time to observe and analyse the system and once I understand how it works I relentlessly increase my cotribution in small increments. In the last 3 years I have worked across multiple teams in different industries being both leader and follower, be it as a business owner while coordinating the members of my team or as a junior technical account manager, learning the ropes of the exciting world of online video. 
+
+Since I moved in the UK I had the oportunity to collaborate with people from all over the world and assured that principles like: respect, motivation and productivity are universally appreciated regardless of the country or company. When my colleagues from StreamAMG told me that I motivated the entire team to learn to code and that I was an example of self improvement and determination I was very grateful because it meant I could make a difference despite of the junior position and the short time spent there.
+
+Now at Makers Academy, the ultimate team work environment, I feel myself under the perfect conditions to learn the complex and ever evolving web development technologies together with an entire community of like minded people. 
 
 #### Technical skills
 *to be included after week 6 
@@ -52,11 +59,13 @@ A 16 week software development bootcamp.
 #### Faculty of Economics and Business Administration (Cluj-Napoca, 2012-2014)
 
 * MSc International Business Management(IBM, English Language)
+* Intercultural Business, Financial Markets, Emotional and Interpersonal Intelligence, Accounting, International Business Law, Corporate Governance, Quantitative Methods in Economics, Finance and Management.
 * Got a scholarship for 1 semester and my favourite subject was Leadership.
 
 #### Technical University of Cluj-Napoca (Cluj-Napoca, 2012-2014)
 
 * BEng Construction Faculty, Civil Engineering (English Language)
+* Mathematical Analysis, Mechanics, Computer Programming and Design Applications, Statistics, Dynamics and Stability of Constructions, Building Constructions, Reinforced Concrete Stuctures, Steel Structures, Foundations, Management and Administration of Constructions Activity
 * Had the opportunity to observe the business environment from the constructions industry by collaborating with 3 different companies.
 
 
@@ -65,12 +74,14 @@ A 16 week software development bootcamp.
 **StreamAMG** (May 2016 to October 2016)    
 *Junior Technical Account Manager*
 * Coordinated webcasting projects for companies like Hachette, Target Ovarian Cancer, IFoA, P&O Ferries, Homeserve, and Linkedin.
-* The diverse workflow gave me the opportunity to learn every aspect of a webcast, starting from the suite of software up to the multitude of hardware used on the site. 
-* Designed, built and adapted the microsites used for viewing the webcasts. For this i used HTML5 and CSS3, which i learnt by myself from online resources such as treehouse, w3schools and stackoverflow. 
+* Offered technical assistance for our main platforms and held regular product demonstrations at the head office and online.
+* The diverse workflow gave me the opportunity to learn every aspect of a webcast, starting from the suite of software used up to the multitude of hardware installed on the site. 
+* Designed, built and adapted the microsites used for registering and viewing the webcasts. For this i used HTML5 and CSS3, which i learnt by myself from online resources such as treehouse, w3schools and stackoverflow. 
 
 **The Forge** (September 2015 to April 2016)   
 *Customer Service Executive*
 * Provided customer service and account management support services for the hotel and restaurant. 
+* Managed and kept records of customer interactions, complaints, transactions, bookings as well as actions taken, processed orders, forms and applications.
 * After a brief period of adjustment I was regularly left in charge of managing the operations and staff while the management was not present in the hotel.  
 
 **Pronovia Gym** (June 2014 to September 2015)   
@@ -95,4 +106,5 @@ A 16 week software development bootcamp.
 
 Health and wellbeing have high priority in my life. For exercise I prefer fitnes, biking, skiing, swimming, running and never refuse an adventure. 
 I like to read about personal development, philosophy, spirituality and try to meditate at least a couple of times per week. 
+Startups, businesses and financial freedom strategies are always a prefered conversation topic.
 Moving forward I am excited at the prospect of becoming a parent.
