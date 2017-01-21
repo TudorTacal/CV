@@ -40,9 +40,10 @@ Now at Makers Academy, the ultimate team work environment, I feel myself under t
 ## Projects
 | Name | Description | Technologies | Timeframe | Testing |
 |---|---|---|---|---|
-|Makers Instagram   | A clone after Instagram   | Ruby on Rails, Ruby, AWS   | 1 weekend   | RSpec, Capybara|
-| Thermostat  | A thermostat displaying the outside temperature from the desired city, using Open Weather API + different settings such as energy saving mode, energy usage and a cool interface.  | Javascript, JQuery   | 1 week   | Jasmine   |
-|Chitter   | A messaging app that allows to post comments that multiple users can see.  | Ruby, Sinatra  | 1 weekend   | RSpec, Capybara   |
+|[Makers Instagram](https://github.com/TudorTacal/instagram-challenge)   | An Instagram clone  | Ruby on Rails, Ruby, Active Record, PostgreSQL, AWS   | 1 weekend   | RSpec, Capybara|
+|[MakersBNB](https://github.com/malinpatel/makersbnb)   | A web app used for letting properties. Some of the features allow a user to sign up, log in, log out, see a list of available properties, add a property, make a request for a property, accept or decline a request and much more.| Ruby, Sinatra, PostgreSQL, Heroku, Bootstrap, Waffle  | 1 week - 4 people team  | RSpec, Capybara |
+| [Thermostat](https://github.com/TudorTacal/thermostat)  | A thermostat displaying the outside temperature from the desired city, using Open Weather API + different settings such as energy saving mode, energy usage and a cool interface.  | Sinatra, Ruby, Javascript, JQuery, PostgreSQL   | 1 week   | Jasmine   |
+|[Chitter](https://github.com/TudorTacal/chitter-challenge)   | A messaging app that allows to post comments that multiple users can see.  | Ruby, Sinatra, PostgreSQL, Heroku  | 1 weekend   | RSpec, Capybara  |
 
 
 ## Education
@@ -108,7 +109,7 @@ A 16 week software development bootcamp.
 
 ## Interests
 
-Health and wellbeing have high priority in my life. For exercise I prefer fitness, biking, skiing, swimming, running and never refuse an adventure. 
+Health and wellbeing have high priority in my life. For exercise I prefer fitness, biking, skiing, swimming, running and never refuse an adventure. Proclaimed table tennis guru at Makers Academy :)
 I like to read about personal development, philosophy, spirituality and try to meditate at least a couple of times per week. 
 Startups, businesses and financial freedom strategies are always a prefered conversation topic.
 Moving forward I am excited at the prospect of becoming a parent.
