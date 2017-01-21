@@ -37,13 +37,17 @@ Since I moved in the UK I had the opportunity to collaborate with people from al
 
 Now at Makers Academy, the ultimate team work environment, I feel myself under the perfect conditions to learn the complex and ever evolving web development technologies together with an entire community of like minded people. 
 
-#### Projects
-Please reference my Github repositories.
+## Projects
+| Name | Description | Technologies | Timeframe | Testing |
+|---|---|---|---|---|
+|Makers Instagram   | A clone after Instagram   | Ruby on Rails, Ruby, AWS   | 1 weekend   | RSpec, Capybara|
+| Thermostat  | A thermostat displaying the outside temperature from the desired city, using Open Weather API + different settings such as energy saving mode, energy usage and a cool interface.  | Javascript, JQuery   | 1 week   | Jasmine   |
+|Chitter   | A messaging app that allows to post comments that multiple users can see.  | Ruby, Sinatra  | 1 weekend   | RSpec, Capybara   |
 
 
 ## Education
 
-#### Makers Academy (07/11/16 to 10/02/16)
+#### Makers Academy (London, 07/11/16 to 10/02/16)
 
 A 16 week software development bootcamp.
 
