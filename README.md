@@ -3,11 +3,11 @@
 [Skills](#skills) | [Projects]() | [Experience](#experience)| [Education](#education) | [Interests](#interests)
 
 
-I am a junior web developer with a background in business development. I have moved to London solely to join the tech scene and continue my career as a web developer. My plan included Makers Academy, a full time, highly selective and very intensive coding bootcamp, as a launchpad for learning fast the newest technologies, the best practices used in the industry and becoming a part of an amazing community.    
+I am a junior full stack web developer with a background in business development. I have moved to London solely to join the tech scene and continue my career as a web developer. My plan has included Makers Academy, a full time, highly selective and very intensive coding bootcamp, as a launchpad for learning fast the newest technologies, the best practices used in the industry and becoming a part of an amazing community.    
 
-Up to this point I have faced the troubled waters of entrepreneurship by building and managing 2 small businesses in my home country, Romania. This experience has been of tremendous value because it showed me what it means to be the leader and exposed me to an environment of uncertainty and never ending problems that pushed me consistently to find solutions and move forward. After intense analysis I decided to get into tech, my original passion, and where to do it better than in London, Europe's technology capital.     
+Up to this point I have faced the troubled waters of entrepreneurship by building and managing 3 small businesses in my home country, Romania. This experience has been of tremendous value because it showed me what it means to be the leader and exposed me to an environment of uncertainty and never ending problems where I had to push consistently to find solutions and move forward. After intense analysis I decided to get into tech, my original passion, and where to do it better than in London, Europe's technology capital.     
 
-Now I am very excited to join a company where I will work on scalable software, in an collaboratively environment, with friendly people who really care about the results they produce. Perhaps a well established digital agency or a consultancy company would be the perfect match but the entrepreneur in me would also join a solid startup. Either way, my goals are to continuously improve the value that I am bringing to the company and to nurture meaningful relationships with my colleagues.
+Now I am very excited to join a company where I will work on scalable web apps, in an collaboratively environment, with friendly people who really care about the results they produce. Perhaps a well established digital agency or a consultancy company would be the perfect match but the entrepreneur in me would also join a solid startup. Either way, my goals are to continuously improve the value that I am bringing to the company and to nurture meaningful relationships with my colleagues.
 
 
 ## Skills
@@ -16,15 +16,21 @@ Now I am very excited to join a company where I will work on scalable software, 
 
 To arrive at this point I have planned extensively and in great detail every single step. It started with the decision to exit my businesses and move to London to become a web developer. From that moment I started to gather, organise and analyse the available data which also meant choosing the best course of action from a multitude of possibilities.  
 
-Reduced to a short sequence I had to : Sell 1 business and handover 2 others -> Move in the UK through an agency -> Move to London and get the best position with a tech company -> Join Makers Academy -> Acquire the foundation of web development -> Join the perfect company as a junior web developer.
+Reduced to a short sequence I had to : 
+* Sell 1 business and handover 2 others
+* Move in the UK through an agency 
+* Move to London and get the best position with a tech company (StreamAMG) 
+* Join Makers Academy 
+* Acquire the foundation of web development
+* Join the perfect company as a junior web developer.
 
-It might look simple and easy but the reality was far from that. Every step involved a considerable amount of hard work as well as proper challenges. Through perseverance and motivation I worked the system and successfully accomplished my goals one step at a time. I learnt to use the same approach while designing software and solving problmes.   
+It might look simple and easy but the reality was far from that. Every step involved a considerable amount of hard work as well as proper challenges. Through perseverance and motivation I worked the system and successfully accomplished my goals one step at a time. I learnt to use the same approach while writing code and solving problmes.   
 
 #### Communication
 
 Throughout my career communication played a massive role in the success of my development. Whether it was in real estate, the fitness industry, agriculture, tourism or high tech in London I have always worked directly with many different types of people in client facing roles. 
 
-The biggest benefit I've drawn from proper communication is a positive attitude. I have passionately studied body language, NLP, negotiation, influence and applied the knowledge not only in my professional life but also in my everyday life. By expressing myself with friendliness, respect and empathy I managed to reduce the most serious complaints to easy to solve problems when working at The Forge hotel in East Sussex. Presenting with clarity and concision I've held highly technical product demostrations to non-technical clients when working at StreamAMG. The biggest challenge was to read if the client really understood what was going on or just nodded in agreement. This involved asking guiding questions and careful active listening for the slightest feedback regarding the product. 
+The biggest benefit I've drawn from proper communication is a positive attitude. I have passionately studied body language, NLP, negotiation, influence and applied the knowledge not only in my professional life but also in my everyday life. By expressing myself with friendliness, respect and empathy I managed to reduce the most complex problems to easy understandable concepts while developing at Makers Academy. Presenting with clarity and concision I've held highly technical product demostrations to non-technical clients when working at StreamAMG. The biggest challenge was to read if the client really understood what was going on or just nodded in agreement. This involved asking guiding questions and careful active listening for the slightest feedback regarding the product. 
 
 From my point of view communication and interpersonal skills are one of the biggest assets a professional must possess, no matter the industry he works in. As I have seen entire businesses and departments being successful or being disrupted by the actions of a single individual. 
 
@@ -33,11 +39,12 @@ From my point of view communication and interpersonal skills are one of the bigg
 
 I am highly adaptable to any environment. I start slowly, take my time to observe and analyse the system and once I understand how it works I relentlessly increase my contribution in small increments. In the last 3 years I have worked across multiple teams in different industries being both leader and follower, be it as a business owner while coordinating the members of my team or as a junior technical account manager, learning the ropes of the exciting world of online video. 
 
-Since I moved in the UK I had the opportunity to collaborate with people from all over the world and assured that principles like: respect, motivation and productivity are universally appreciated regardless of the country or company. When my colleagues from StreamAMG told me that I motivated the entire team to learn to code and that I was an example of self improvement and determination I was very grateful because it meant I could make a difference despite of the junior position and the short time spent there.
+Since I moved in the UK I had the opportunity to collaborate with people from all over the world and assured that principles like: *respect*, *motivation* and *productivity* are universally appreciated regardless of the country or company. When my colleagues from StreamAMG told me that *I motivated the entire team to learn to code* and that I was an example of self improvement and determination I was very grateful because it meant I could make a difference despite of the junior position and the short time spent there.
 
-Now at Makers Academy, the ultimate team work environment, I feel myself under the perfect conditions to learn the complex and ever evolving web development technologies together with an entire community of like minded people. 
+Last at Makers Academy, the *ultimate team work environment*, I found myself under the perfect conditions to learn the complex and ever evolving web development technologies together with an entire community of like minded people. And it was a thrill!
 
 ## Projects
+
 | Name | Description | Technologies | Timeframe | Testing |
 |---|---|---|---|---|
 |[Makers Instagram](https://github.com/TudorTacal/instagram-challenge)   | An Instagram clone  | Ruby on Rails, Ruby, Active Record, PostgreSQL, AWS   | 1 weekend   | RSpec, Capybara|
@@ -52,11 +59,11 @@ Now at Makers Academy, the ultimate team work environment, I feel myself under t
 
 A 16 week software development bootcamp.
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- Curiosity and hungry passion for code.
+- Independent learner and problem-solver.
+- OOP, TDD, SOLID, MVC, DDD, pair programming.
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript, Node.js, Angular.js, Bootstrap, JQuery, PostgreSQL, AJAX.
 - Rspec, Jasmine, Mocha
 
 
@@ -65,7 +72,7 @@ A 16 week software development bootcamp.
 
 * MSc International Business Management(IBM, English Language)
 * Intercultural Business, Financial Markets, Emotional and Interpersonal Intelligence, Accounting, International Business Law, Corporate Governance, Quantitative Methods in Economics, Finance and Management.
-* Got a scholarship for 1 semester and my favourite subject was Leadership.
+* Got a scholarship for 1 semester; my favourite subject was Leadership.
 
 #### Technical University of Cluj-Napoca (Cluj-Napoca, 2012-2014)
 
@@ -81,7 +88,7 @@ A 16 week software development bootcamp.
 * Coordinated webcasting projects for companies like Hachette, Target Ovarian Cancer, IFoA, P&O Ferries, Homeserve, and Linkedin.
 * Offered technical assistance for our main platforms and held regular product demonstrations at the head office and online.
 * The diverse workflow gave me the opportunity to learn every aspect of a webcast, starting from the suite of software used up to the multitude of hardware installed on the site. 
-* Designed, built and adapted the microsites used for registering and viewing the webcasts. For this i used HTML5 and CSS3, which i learnt by myself from online resources such as treehouse, w3schools and stackoverflow. 
+* Designed, built and adapted the microsites used for registering and viewing the webcasts. For this i used HTML5 and CSS3, which i learnt by myself from online resources such as [teamtreehouse](eamtreehouse.com), [w3schools](http://www.w3schools.com/) and [Stackoverflow](http://stackoverflow.com/). 
 
 **The Forge** (September 2015 to April 2016)   
 *Customer Service Executive*
@@ -109,7 +116,7 @@ A 16 week software development bootcamp.
 
 ## Interests
 
-Health and wellbeing have high priority in my life. For exercise I prefer fitness, biking, skiing, swimming, running and never refuse an adventure. Proclaimed table tennis guru at Makers Academy :)
+Health and wellbeing have high priority in my life. For exercise I prefer fitness, biking, skiing, swimming, running and never refuse an adventure. Proclaimed *table tennis guru* at Makers Academy :)
 I like to read about personal development, philosophy, spirituality and try to meditate at least a couple of times per week. 
 Startups, businesses and financial freedom strategies are always a prefered conversation topic.
 Moving forward I am excited at the prospect of becoming a parent.
