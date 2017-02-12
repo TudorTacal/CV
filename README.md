@@ -5,9 +5,9 @@
 
 I am a junior full stack web developer with a background in business development. I specialize in high performance web applications with a an emphasis on beautiful design, thus great UX. I promote quality code, speed and performance. From day 1 I promise to bring a great positive attitude, high energy, focus, hard work and lots of motivation and determination to succeed. 
 
-My biggest technical achievement so far, was the 2 week final project at Makers Academy. There, I had the opportunity to apply all my skills, energy and knwodlege that I acquired in the last 4 months, to build a solid web application together with 3 colleagues who shared some common values such as: **focus**, **productivity** and **fun**. I started by brainstorming a project idea that would **solve a problem**, would use a cutting edge technology stack (**MERN**) and would be fun to use. Our [**Standups and Retros**](http://standupsandretros.herokuapp.com/) app does all this. That was a major success and we all feel very proud about the work we produced. 
+My biggest technical achievement so far, was the 2 week final project at Makers Academy. There, I had the opportunity to apply all my skills, energy and knwodlege to build a solid web application together with 3 colleagues who shared common values such as: **focus**, **productivity** and **fun**. I started by brainstorming a project idea that would **solve a problem**, would use a cutting edge technology stack (**MERN**) and would be fun to use. Our [**Standups and Retros**](http://standupsandretros.herokuapp.com/) app does all this. That was a major success and we all feel very proud about the work we produced. 
 
-Now, I am very excited to join a company where I will work on high performing scalable web applications, in an collaboratively environment, with friendly, fun, focused, and positive people who really care about the results they produce. I am an advocate of Agile so I value if these processes are used.
+Now, I am very excited to join a company where I will work on high performing scalable web applications, in an collaboratively environment, with friendly, fun, focused, and positive people who really care about the results they produce. I am an advocate of Agile so I value if these processes are used. TDD, pairing and support to become a well rounded technologist are also big plusses.
 
 
 ## Skills
@@ -16,24 +16,40 @@ Now, I am very excited to join a company where I will work on high performing sc
 
 Throughout my career communication played a massive role in the success of my development. The biggest benefit I've drawn from proper communication is a **positive attitude**.
 
-I was fortunate to play a leadership role for the final project at Makers Academy. I had to pitch the idea to my colleagues and form a strong team around it. I had a clear vision about the technologies involved. Those were **MongoDB**, **ExpressJS**, **ReactJS** and **NodeJS**. Plus integrating **websockets** for realtime communication. I wanted a **high performance** web application, **mobile friendly** but also a cool **UI**. By expressing myself with friendliness, respect and empathy I managed to reduce the most complex problems to easy understandable concepts while developing at Makers Academy.
+I was fortunate to play a leadership role for the final project at Makers Academy. I had to pitch the idea to my colleagues and form a strong team around it. I had a clear **vision** about the technologies involved. Those were **MongoDB**, **ExpressJS**, **ReactJS** and **NodeJS**. Plus integrating **web sockets** for realtime communication. I wanted a **high performance** web application, **mobile friendly** but also a beautiful **UI**. By expressing myself with friendliness, respect and empathy I managed to reduce the most complex problems to easy understandable concepts throughtout my journey at Makers Academy.
 
-Presenting with clarity and concision I've held highly technical product demostrations to non-technical clients when working at StreamAMG. The biggest challenge was to read if the client really understood what was going on or just nodded in agreement. This involved asking guiding questions and careful active listening for the slightest feedback regarding the product. 
+Presenting with clarity and concision I've held highly technical **product demostrations** to non-technical clients when working at StreamAMG. The biggest challenge was to read if the client really understood what was going on or just nodded in agreement. This involved asking guiding questions and careful **active listening** for the slightest feedback regarding the product. 
 
-From my point of view communication and interpersonal skills are one of the biggest assets a professional must possess, no matter the industry he works in. As I have seen entire businesses and departments being successful or being disrupted by the actions of a single individual. 
-
+From my point of view communication and **interpersonal skills** are one of the biggest assets a professional must possess, no matter the industry he works in. As I have seen entire businesses and departments being successful or being disrupted by the actions of a single individual. 
 
 #### Team Work & Pairing
 
-I am highly adaptable to any environment. I start slowly, take my time to observe and analyse the system and once I understand how it works I relentlessly increase my contribution in small increments. In the last 3 years I have worked across multiple teams in different industries being both leader and follower, be it as a business owner while coordinating the members of my team or as a junior technical account manager, learning the ropes of the exciting world of online video. 
+I am highly adaptable to any environment. I start slowly, take my time to observe and analyse the system and once I understand how it works I relentlessly increase my contribution in small increments. In the last 4 years I have worked across multiple teams in different industries being both leader and follower.
 
-Since I moved in the UK I had the opportunity to collaborate with people from all over the world and assured that principles like: *respect*, *motivation* and *productivity* are universally appreciated regardless of the country or company. When my colleagues from StreamAMG told me that *I motivated the entire team to learn to code* and that I was an example of self improvement and determination I was very grateful because it meant I could make a difference despite of the junior position and the short time spent there.
+At Makers Academy, pair programming is the rule. I embraced this concept from day one. It took me back to the early days when I started to use a computer and I was playing games with my friends. We were 2 or more people *working* simultaneously or taking turns to solve the same problem or pass the level. I believe pairing is very productive, having 2 minds working in the same direction is just more powerful. 
 
-Last at Makers Academy, the *ultimate team work environment*, I found myself under the perfect conditions to learn the complex and ever evolving web development technologies together with an entire community of like minded people. And it was a thrill!
+I love working in teams. Again the productivity and **results** increase exponentially when you have an entire team working together to solve a problem or build a new app or feature. I believe one of the biggest values that I can bring in a team are **motivation** and **excitement**. During the final project at Makers we just took team work to a whole new level. We **changed pairs** everyday, began our day with a **standup** and finished with a **retro**. The **feedback loop** was just incredible, we were communicationg our progress continuously and no matter how hard the challenge or the blocks were, I was constantly repeating to my team *We'll get this done. We'll find a way*. And so we did.
 
 #### Problem solving
 
+I solved problems all my life. Since I was in my first grade our teacher was obsessd with maths. We were doing maths at least 50% of our time. All our *less* important subjects were replaced by maths. We hated it then, but I appreciate it now.
+
+I studied only *technical subjects* thorought my life, we always had problems to solve. I use the **scientific method** to everyting in my life, be it coding, nutrition or human relations. If you don't measure it, you can't grow it or improve it. 
+
+I approach problem solving by first indentifiyng the problem and **breaking** it into smaller, more approachable problems. I believe one of my best strategies when it comes to problem solving is to **ask adequate questions**. I frequently ask myself, my pair or the team: *What is the next simplest step that we can tackle?*, *How will this change our situation?* , *What happens if we do this?*.
+
+I have to admit that one of my successes to coding problems and **debugging** is ** fast iteration**. Depending on the nature of the problem, I can try very fast all the ideas that I have in my mind. For example, one of the aspects that I took **responsibility** for in my final project was deplying to **Heroku**. I love to be **Agile** so I recommended that we should deploy to production fast. So in our third day our app was live, we followed tutorials the first day to learn the new technology stack. Although we pushed to production at least once per day, as our app grew the problems started to appear. The deployment process went like this:
+*Make a change in code* -> *Test in the local environment* ->  *Make a commit* -> *Push to Github* -> *Push to Heroku*. We could easily make 10 commits for one problematic push. So i had to iterate fast. Try all the venues but still use the scientific method to correctly **isolate the problem** so that we learn and do it properly next time.
+
 #### Learning new techologies
+
+Although I've been a passionate student all my life but Makers gave me a new vision about learning complex tech and how to do it. It's amazing to see our progress, we started from the command line in the precourse and finished with deploying a complex web application on Heroku.
+
+We started with **Ruby** as the programming language then followed with **Javascript**. But we learnt so many other frameworks like **Sinatra**, **Rails**, **ExpressJS**, **NodeJS**. Plus the testing ones **RSpec**, **Jasmine**, **Mocha**, **Enzyme**. Plus libraries **jQery**, **AJAX**, **AXIOS**. The web **HTTP**, **web sockets**, **server side**, **client side**, **3 tier architecture**. Persistence **PostgreSQL**, **MongoDB**, **associations**, **ORM's**. Only to name a few, the list goes on and is to big to encapsulate here.
+
+All while respecting best practices like the **Agile** methoddologies, **SOLID** design patterns, **OOD**, **TDD**, **XP values**. Repeating and speaking outloud everyday the tech we learned and being immersed in that environment allowed me to quickly become proficient using any tech thus becoming tech agnosting. I still like cutting edge tech like **React** and I am interested to learn more about **Flux** :) But I am equally happy to learn world class languages like **JAVA** or **C#**. 
+
+I can state with confidence that I am able to **learn any technology stack** and get a solid grasp of the basics in under one month, with the right guidance and environment. 
 
 ## Projects
 
