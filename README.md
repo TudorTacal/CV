@@ -1,47 +1,39 @@
 ## Tudor Dan Tacal
-#### Junior Developer looking to join a team
+#### Junior Full Stack Web Developer looking to join an awesome team
 [Skills](#skills) | [Projects]() | [Experience](#experience)| [Education](#education) | [Interests](#interests)
 
 
-I am a junior full stack web developer with a background in business development. I have moved to London solely to join the tech scene and continue my career as a web developer. My plan has included Makers Academy, a full time, highly selective and very intensive coding bootcamp, as a launchpad for learning fast the newest technologies, the best practices used in the industry and becoming a part of an amazing community.    
+I am a junior full stack web developer with a background in business development. I specialize in high performance web applications with a an emphasis on beautiful design, thus great UX. I promote quality code, speed and performance. From day 1 I promise to bring a great positive attitude, high energy, focus, hard work and lots of motivation and determination to succeed. 
 
-Up to this point I have faced the troubled waters of entrepreneurship by building and managing 3 small businesses in my home country, Romania. This experience has been of tremendous value because it showed me what it means to be the leader and exposed me to an environment of uncertainty and never ending problems where I had to push consistently to find solutions and move forward. After intense analysis I decided to get into tech, my original passion, and where to do it better than in London, Europe's technology capital.     
+My biggest technical achievement so far, was the 2 week final project at Makers Academy. There, I had the opportunity to apply all my skills, energy and knwodlege that I acquired in the last 4 months, to build a solid web application together with 3 colleagues who shared some common values such as: **focus**, **productivity** and **fun**. I started by brainstorming a project idea that would **solve a problem**, would use a cutting edge technology stack (**MERN**) and would be fun to use. Our [**Standups and Retros**](http://standupsandretros.herokuapp.com/) app does all this. That was a major success and we all feel very proud about the work we produced. 
 
-Now I am very excited to join a company where I will work on scalable web apps, in an collaboratively environment, with friendly people who really care about the results they produce. Perhaps a well established digital agency or a consultancy company would be the perfect match but the entrepreneur in me would also join a solid startup. Either way, my goals are to continuously improve the value that I am bringing to the company and to nurture meaningful relationships with my colleagues.
+Now, I am very excited to join a company where I will work on high performing scalable web applications, in an collaboratively environment, with friendly, fun, focused, and positive people who really care about the results they produce. I am an advocate of Agile so I value if these processes are used.
 
 
 ## Skills
 
-#### Planning
-
-To arrive at this point I have planned extensively and in great detail every single step. It started with the decision to exit my businesses and move to London to become a web developer. From that moment I started to gather, organise and analyse the available data which also meant choosing the best course of action from a multitude of possibilities.  
-
-Reduced to a short sequence I had to : 
-* Sell 1 business and handover 2 others
-* Move in the UK through an agency 
-* Move to London and get the best position with a tech company (StreamAMG) 
-* Join Makers Academy 
-* Acquire the foundation of web development
-* Join the perfect company as a junior web developer.
-
-It might look simple and easy but the reality was far from that. Every step involved a considerable amount of hard work as well as proper challenges. Through perseverance and motivation I worked the system and successfully accomplished my goals one step at a time. I learnt to use the same approach while writing code and solving problmes.   
-
 #### Communication
 
-Throughout my career communication played a massive role in the success of my development. Whether it was in real estate, the fitness industry, agriculture, tourism or high tech in London I have always worked directly with many different types of people in client facing roles. 
+Throughout my career communication played a massive role in the success of my development. The biggest benefit I've drawn from proper communication is a **positive attitude**.
 
-The biggest benefit I've drawn from proper communication is a positive attitude. I have passionately studied body language, NLP, negotiation, influence and applied the knowledge not only in my professional life but also in my everyday life. By expressing myself with friendliness, respect and empathy I managed to reduce the most complex problems to easy understandable concepts while developing at Makers Academy. Presenting with clarity and concision I've held highly technical product demostrations to non-technical clients when working at StreamAMG. The biggest challenge was to read if the client really understood what was going on or just nodded in agreement. This involved asking guiding questions and careful active listening for the slightest feedback regarding the product. 
+I was fortunate to play a leadership role for the final project at Makers Academy. I had to pitch the idea to my colleagues and form a strong team around it. I had a clear vision about the technologies involved. Those were **MongoDB**, **ExpressJS**, **ReactJS** and **NodeJS**. Plus integrating **websockets** for realtime communication. I wanted a **high performance** web application, **mobile friendly** but also a cool **UI**. By expressing myself with friendliness, respect and empathy I managed to reduce the most complex problems to easy understandable concepts while developing at Makers Academy.
+
+Presenting with clarity and concision I've held highly technical product demostrations to non-technical clients when working at StreamAMG. The biggest challenge was to read if the client really understood what was going on or just nodded in agreement. This involved asking guiding questions and careful active listening for the slightest feedback regarding the product. 
 
 From my point of view communication and interpersonal skills are one of the biggest assets a professional must possess, no matter the industry he works in. As I have seen entire businesses and departments being successful or being disrupted by the actions of a single individual. 
 
 
-#### Team Work
+#### Team Work & Pairing
 
 I am highly adaptable to any environment. I start slowly, take my time to observe and analyse the system and once I understand how it works I relentlessly increase my contribution in small increments. In the last 3 years I have worked across multiple teams in different industries being both leader and follower, be it as a business owner while coordinating the members of my team or as a junior technical account manager, learning the ropes of the exciting world of online video. 
 
 Since I moved in the UK I had the opportunity to collaborate with people from all over the world and assured that principles like: *respect*, *motivation* and *productivity* are universally appreciated regardless of the country or company. When my colleagues from StreamAMG told me that *I motivated the entire team to learn to code* and that I was an example of self improvement and determination I was very grateful because it meant I could make a difference despite of the junior position and the short time spent there.
 
 Last at Makers Academy, the *ultimate team work environment*, I found myself under the perfect conditions to learn the complex and ever evolving web development technologies together with an entire community of like minded people. And it was a thrill!
+
+#### Problem solving
+
+#### Learning new techologies
 
 ## Projects
 
