@@ -3,9 +3,7 @@
 [Skills](#skills) | [Projects]() | [Experience](#experience)| [Education](#education) | [Interests](#interests)
 
 
-I am a junior full stack web developer with a background in business development. I specialize in high-performance web applications with an emphasis on **beautiful design**, thus great UX. I promote **quality code**, **speed**, and **performance**. From day 1 I promise to bring a great positive attitude, high energy, focus, hard work and lots of motivation and determination to succeed. It's hard to communicate everything on one page but I included many details that provide a deep dive on my person. So if you're interested to see how my mind works you'll have to read until the end :)
-
-My biggest technical achievement so far was the 2-week final project at Makers Academy. There, I had the opportunity to apply all my skills, energy and knowdlege to build a solid web application together with 3 colleagues who shared common values such as **focus**, **productivity**, and **fun**. I started by brainstorming a project idea that would **solve a problem**, would use a cutting edge technology stack (**MERN**) and would be fun to use. Our [**Standups and Retros**](http://standupsandretros.herokuapp.com/) app does all this. It was a major success and we all feel very proud of the work we produced. 
+I am a junior full stack web developer with a background in business development. I specialize in high-performance web applications with an emphasis on **beautiful design**, thus great **UX**. I promote **quality code**, **speed**, and **performance**. From day 1 I promise to bring a great positive attitude, high energy, focus, hard work and lots of motivation and determination to succeed alongside my technical skills.
 
 Now, I am very excited to join a company where I will work on **high-performing scalable web applications**, in a collaborative environment, with **friendly**, fun, **focused**, and positive people who really care about the results they produce. I am an advocate of **Agile** so I value if these processes are used.**Pair programming**, **TDD**, and support to become a **well-rounded technologist** are also big plusses.
 
@@ -14,9 +12,7 @@ Now, I am very excited to join a company where I will work on **high-performing 
 
 #### Communication
 
-Throughout my career communication played a massive role in the success of my development. The biggest benefit I've drawn from proper communication is a **positive attitude**.
-
-I was fortunate to play a leadership role for the final project at Makers Academy. I had to pitch the idea to my colleagues and unite a strong team around it. I had a clear **vision** about the technologies involved. Those were **MongoDB**, **ExpressJS**, **ReactJS** and **NodeJS**. Plus integrating **web sockets** for real-time communication. I wanted a **high-performance** web application, **mobile friendly** but also a beautiful **UI**. By expressing myself with friendliness, respect and empathy I managed to reduce the most complex problems to easily understandable concepts throughout my journey at Makers Academy.
+I was fortunate to play a leadership role for the final project at Makers Academy. I had to pitch the idea to my colleagues and unite a strong team around it. I had a clear **vision** about the technologies involved. By expressing myself with friendliness, respect and empathy I managed to reduce the most complex problems to easily understandable concepts throughout my entire journey.
 
 Presenting with **clarity** and **concision** I've held highly technical **product demonstrations** to non-technical clients when working at **StreamAMG**. The biggest challenge was to read if the client really understood what was going on or just nodded in agreement. This involved asking guiding questions and careful **active listening** for the slightest feedback regarding the product. 
 
@@ -26,30 +22,24 @@ From my point of view communication and **interpersonal skills** are one of the 
 
 I am highly **adaptable** to any environment. I start slowly, take my time to observe and analyze the system and once I understand how it works I relentlessly increase my contribution in small increments. In the last 4 years, I have worked across multiple teams in different industries being both leader and follower.
 
-At Makers Academy, **pair programming** is the rule. I embraced this concept from day one. It took me back to the early days when I started to use a computer and I was playing games with my friends. We were 2 or more people *working* simultaneously or taking turns to solve the same problem or pass the level. I believe pairing is very productive, having two minds working in the same direction is just more powerful than one. 
-
 I love working in teams probably because I like working with people. Again the productivity and **results** increase exponentially when you have an entire team working together to solve a problem or build a new app or feature. I believe one of the biggest values that I can bring to a team are **motivation**, **excitement**, and **energy**.
 
 During the final project at Makers, we just took teamwork to a whole new level. We **changed pairs** daily, began our day with a **stand-up** and finished with a **retro**. We even delegated work for the weekend. The **feedback loop** was just incredible, we were communicating our progress constantly and no matter how hard the challenge or the blocks were, I was always repeating to my team *We'll get this done. We'll find a way*. And so we did.
 
 #### Problem solving
 
-I solved problems all my life. Since I was in my first grade our teacher was obsessed with maths. We were doing maths at least 50% of our time. All our *less* important subjects were replaced by maths. We hated it then, but I appreciate it now.
-
 I use the **scientific method** to almost every aspect of my life, be it coding, nutrition or human relations. If you don't measure it, you can't grow it or improve it. 
 
 I approach problem-solving by first identifying  the problem and **breaking** it into smaller, more approachable problems. I believe one of my best **strategies** when it comes to problem-solving is to **ask adequate questions**. I frequently ask myself, my pair or the team: *What is the next simplest step that we can tackle?*, *How will this change our situation?* , *What happens if we do this?*.
 
 I have to admit that one of my successes solving coding problems and **debugging** is **fast iterations**. Depending on the nature of the problem, I can try very fast all the ideas that come to my mind. For example, one of the aspects that I took **responsibility** for in my final project was deploying to **Heroku**. I love to be **Agile** so I recommended that we should deploy to production fast. So in our third day, our app was live, we followed tutorials the first day to learn the new technology stack. Although we pushed to production at least once per day, as our app grew the problems started to appear. The deployment process went like this:
-*Make a change in code* -> *Test in the local environment* ->  *Make a commit* -> *Push to Github* -> *Push to Heroku*. We could easily make 10 commits for one problematic push. I had to iterate fast because time was scarce. Try all the venues but still use the scientific method to correctly **isolate the problem** so that we learn and do it properly next time.
+*Make a change in code* -> *Test in the local environment* ->  *Make a commit* -> *Push to Github* -> *Push to Heroku*. We could easily make 10 commits for one problematic push. I had to iterate fast because time was scarce. Tried all the venues but still used the scientific method to correctly **isolate the problem** so that we learn how to do it properly next time.
 
 #### Learning new technologies
 
 Although I've been a passionate student all my life, Makers gave me a new vision about learning complex tech and how to do it. It's amazing to see our progress, we started from the command line in the precourse and finished with deploying a **complex web application** on Heroku.
 
-We started with **Ruby** as the first programming language then followed with **Javascript**. But we learned so many other frameworks like **Sinatra**, **Rails**, **ExpressJS**, **NodeJS**. Plus the testing frameworks **RSpec**, **Jasmine**, **Mocha**, **Enzyme**. Plus libraries **jQery**, **AJAX**, **AXIOS**. The web **HTTP**, **web sockets**, **server side**, **client side**, **3 tier architecture**. Persistence **PostgreSQL**, **MongoDB**, **associations**, **ORM's**. Only to name a few, the list goes on and is too big to encapsulate here.
-
-All while respecting best practices like the **Agile** methodologies,, **SOLID** design patterns, **London school**, **OOD**, **TDD**, **XP values**. Repeating and speaking out loud every day the tech we learned and being immersed in that environment allowed me to quickly become proficient using anything thus becoming **tech agnostic**. I still like cutting edge stuff like **React** and I am interested in learning more about **Flux** :) But I am equally happy to learn world class languages like **JAVA** or **C#**. 
+Every week we had to learn a new language, framework, library, practice or design pattern. This has made me to become tech agnostic. To showcase this, I learned the basics of the **MERN** stack in just 2 days for my final project. 
 
 I can state with confidence that I am able to **learn any technology stack** and get a solid grasp of the basics in under one month, with the right guidance and environment. 
 
@@ -57,7 +47,7 @@ I can state with confidence that I am able to **learn any technology stack** and
 
 | Name | Description | Technologies | Timeframe | Testing |
 |---|---|---|---|---|
-|[Stand-ups and Retros](https://github.com/TudorTacal/makers-standups-retros)   | An app designed for having fun standups and retros. Realtime, bug-free and fast no matter where you are in the world.  | Javascript, ReactJS, MongoDB, ExpressJS, NodeJS, Webpack, Babel  | 2 weeks - 4 people   | Enzyme, Mocha, Chai|
+|[Stand-ups and Retros](https://github.com/TudorTacal/makers-standups-retros)   | Final project at Makers. An app designed for having fun standups and retros. Realtime, bug-free and fast no matter where you are in the world.  | Javascript, ReactJS, MongoDB, ExpressJS, NodeJS, Webpack, Babel  | 2 weeks - 4 people   | Enzyme, Mocha, Chai, JSDOM, Sinon|
 |[Makers Instagram](https://github.com/TudorTacal/instagram-challenge)   | An Instagram clone  | Ruby on Rails, Ruby, Active Record, PostgreSQL, AWS   | 1 weekend   | RSpec, Capybara|
 |[MakersBNB](https://github.com/malinpatel/makersbnb)   | A web app used for letting properties.| Ruby, Sinatra, PostgreSQL, Heroku, Bootstrap, Waffle  | 1 week - 4 people team  | RSpec, Capybara |
 | [Thermostat](https://github.com/TudorTacal/thermostat)  | A thermostat displaying the outside temperature for the desired city, using Open Weather API + different settings such as energy saving mode, energy usage and a cool interface.  | Sinatra, Ruby, Javascript, JQuery, PostgreSQL   | 1 week - pairing  | Jasmine   |
@@ -73,11 +63,11 @@ A 16-week software development bootcamp.
 - Curiosity and hungry passion for code.
 - Independent learner and problem-solver.
 - OOP, TDD, SOLID, MVC, DDD, pair programming.
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, React.js, Bootstrap, JQuery, PostgreSQL, AJAX.
+- Software Craftsmanship, Continuos Integration.
+- Ruby, Rails, Javascript, Node.js, React.js, Bootstrap, [JQuery](https://github.com/TudorTacal/thermostat), PostgreSQL, AJAX.
 - Rspec, Jasmine, Mocha, Enzyme, Chai.
-
-
+- Agile methoddologies, code reviews, debugging.
+- Additional Tools: [Heroku](http://standupsandretros.herokuapp.com/), [BCrypt](https://github.com/TudorTacal/chitter-challenge), [OmniAuth](https://github.com/TudorTacal/makers-yelp), [Twilio](https://github.com/TudorTacal/takeaway-challenge), [Travis CI](https://travis-ci.org/TudorTacal/)
 
 #### Faculty of Economics and Business Administration (Cluj-Napoca, 2012-2014)
 
