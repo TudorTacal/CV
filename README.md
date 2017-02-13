@@ -5,7 +5,7 @@
 
 I am a junior full stack web developer with a background in business development. I specialize in high-performance web applications with an emphasis on **beautiful design**, thus great **UX**. I promote **quality code**, **speed**, and **performance**.
 
-From day 1 I promise to bring a great positive attitude, high energy, focus, hard work and determination to succeed alongside my technical skills. My colleagues from Makers told me I am the most cheerful person there and I believe it's hard to find a more motivated and ambitious person than me. 
+From day 1 I promise to bring a great **positive attitude**, high energy, focus, hard work and determination to succeed alongside my technical skills. My colleagues from Makers told me I am the most cheerful person there and I believe it's hard to find a more motivated and ambitious person than me. 
 
 Now, I am very excited to join a company where I will work on **high-performing scalable web applications**, in a collaborative environment, with **friendly**, fun, **focused**, and positive people who really care about the results they produce. I am an advocate of **Agile** so I value if these processes are used.**Pair programming**, **test driven development**, and support to become a **well-rounded technologist** are also big plusses.
 
@@ -14,36 +14,29 @@ Now, I am very excited to join a company where I will work on **high-performing 
 
 #### Communication
 
-I was fortunate to play a leadership role for the final project at Makers Academy. I had to pitch the idea to my colleagues and **unite** a strong team around it. I had a clear **vision** about the technologies involved. By expressing myself with friendliness, respect and empathy I managed to reduce the most complex problems to easily understandable concepts throughout my entire journey.
+I was fortunate to play a leadership role for the final project at Makers Academy. I had to pitch the idea to my colleagues and **unite** a strong team around it. I had a clear **vision** about the technologies involved. I believe the **interpersonal skills** are one of the biggest assets a professional must possess.
 
-Presenting with **clarity** and **concision** I've held highly technical **product demonstrations** to non-technical clients when working at **StreamAMG**. The biggest challenge was to read if the client really understood what was going on or just nodded in agreement. This involved asking guiding questions and careful **active listening** for the slightest feedback regarding the product. 
+Presenting with **clarity** and **concision** I've held highly technical **product demonstrations** to non-technical clients when working at **StreamAMG**. 
 
-From my point of view communication and **interpersonal skills** are one of the biggest assets a professional must possess, no matter the industry he works in. 
 
 #### Teamwork & Pairing
 
-I am highly **adaptable** to any environment. I start slowly, take my time to observe and analyze the system and once I understand how it works I relentlessly increase my contribution in small increments. In the last 4 years, I have worked across multiple teams in different industries being both leader and follower.
+I am highly **adaptable** to any environment. I start slowly, take my time to observe and analyze the system and once I understand how it works I relentlessly increase my contribution in small increments.I believe one of the biggest values that I can bring to a team are **motivation**, **excitement**, and **energy**.
 
-I love working in teams probably because I like working with people. Again the productivity and **results** increase exponentially when you have an entire team working together to solve a problem or build a new app or feature. I believe one of the biggest values that I can bring to a team are **motivation**, **excitement**, and **energy**.
-
-During the final project at Makers, we just took teamwork to a whole new level. We **changed pairs** daily, began our day with a **stand-up** and finished with a **retro**. We even delegated work for the weekend. The **feedback loop** was just incredible, we were communicating our progress constantly and no matter how hard the challenge or the blocks were, I was always repeating to my team *We'll get this done. We'll find a way*. And so we did.
+During the final project at Makers, we just took teamwork to a whole new level. We **changed pairs** daily, began with a **stand-up** and finished with a **retro**. We even delegated work for the weekend. The **feedback loop** was incredible, we were communicating our progress constantly and no matter how hard the challenge or the blocks were, I was always repeating to my team *We'll get this done. We'll find a way*. And so we did.
 
 #### Problem solving
 
-I use the **scientific method** to almost every aspect of my life, be it coding, nutrition or human relations. If you don't measure it, you can't grow it or improve it. 
+I use the **scientific method** to almost every aspect of my life, be it coding, nutrition or human relations. I approach problem-solving by first identifying the problem and then **breaking** it into smaller, more approachable problems.
 
-I approach problem-solving by first identifying the problem and **breaking** it into smaller, more approachable problems. I believe one of my best **strategies** when it comes to problem-solving is to **ask adequate questions**. I frequently ask myself, my pair or the team: *What is the next simplest step that we can tackle?*, *How will this change our situation?* , *What happens if we do this?*.
+The strategies that I employ to solve problems and for **debugging** are: **accurate research**, **adequate questions** and **fast iterations**. 
 
-Alongside **intensive research**, one of my strategies to solving coding problems and **debugging** is **fast iterations**. For example, one of the aspects that I took **responsibility** for in my final project was deploying to **Heroku**. I love to be **Agile** so I recommended that we should deploy to production fast. Although we pushed to production at least once per day, as our app grew the problems started to appear.
-
-The deployment process went like this:
-*Make a change in code* -> *Test in the local environment* ->  *Make a commit* -> *Push to Github* -> *Push to Heroku*. We could easily make 10 commits for one problematic push. I had to iterate fast because time was scarce but still used the scientific method to correctly **isolate the problem** so that we'd learn how to do it properly next time.
 
 #### Learning new technologies
 
-Although I've been a passionate student all my life, Makers gave me a new vision about learning complex tech and how to do it. It's amazing to see our progress, we started from the command line in the precourse and finished with deploying a **complex web application** on Heroku.
+It's amazing to see our progress, we started from the [command line](https://github.com/TudorTacal/clmystery) in the precourse and finished with deploying a **complex web application** deployed on Heroku.
 
-Every week we had to learn a new language, framework, library, practice or design pattern. This has made me to become tech agnostic. To showcase this, I learned the basics of the **MERN** stack in just 2 days for my final project. 
+Every week we had to learn a new language, framework, library, best practice or design pattern. This has made me to become **tech agnostic**. To showcase this, I learned the basics of the **MERN** stack in just 2 days for my final project. 
 
 I can state with confidence that I am able to **learn any technology stack** and get a solid grasp of the basics in under one month, with the right guidance and environment. 
 
@@ -122,7 +115,7 @@ A 16-week software development bootcamp.
 ## Interests
 
 Health and wellbeing have high priority in my life.
-I do fitness, biking, skiing, swimming, running and never refuse an adventure. Proclaimed *table tennis guru* at Makers Academy :)
-I like to read personal development, philosophy, spirituality and try to meditate at least a couple of times per week. 
+I do fitness, biking, skiing, swimming, running and never refuse an adventure. Proclaimed **table tennis guru** at Makers Academy :)
+I like to read about personal development, philosophy, spirituality and try to meditate at least a couple of times per week. 
 Startups, businesses and financial freedom strategies are always a preferred conversation topic.
 Moving forward I am excited at the prospect of becoming a parent.
