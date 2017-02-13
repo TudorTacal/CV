@@ -14,7 +14,7 @@ Now, I am very excited to join a company where I will work on **high-performing 
 
 ### Communication
 
-I was fortunate to play a leadership role for the final project at Makers Academy. I had to pitch the idea to my colleagues and **unite** a strong team around it. I had a clear **vision** about the technologies involved. I believe the **interpersonal skills** are one of the biggest assets a professional must possess.
+I was fortunate to play a leadership role for the [final project](https://github.com/TudorTacal/makers-standups-retros) at Makers Academy. I had to pitch the idea to my colleagues and **unite** a strong team around it. I had a clear **vision** about the technologies involved. I believe the **interpersonal skills** are one of the biggest assets a professional must possess.
 
 Presenting with **clarity** and **concision** I've held highly technical **product demonstrations** to non-technical clients when working at **StreamAMG**. 
 
@@ -34,7 +34,7 @@ The strategies that I employ to solve problems and for **debugging** are: **accu
 
 ### Learning new technologies
 
-It's amazing to see our progress, we started from the [command line](https://github.com/TudorTacal/clmystery) in the precourse and finished with deploying a **complex web application** deployed on Heroku.
+It's amazing to see our progress, we started from the [command line](https://github.com/TudorTacal/clmystery) in the precourse and finished with deploying a **complex web application** on Heroku.
 
 Every week we had to learn a new language, framework, library, best practice or design pattern. This has made me to become **tech agnostic**. To showcase this, I learned the basics of the **MERN** stack in just 2 days for my final project. 
 
