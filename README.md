@@ -7,7 +7,7 @@ I am a junior full stack web developer with a background in business development
 
 From day 1 I promise to bring a great **positive attitude**, **high energy**, focus, hard work and determination to succeed alongside my [technical skills](#projects). My colleagues from Makers told me I am the most cheerful person there and I believe it's hard to find a more **motivated** and **ambitious** person than me. 
 
-Now, I am very excited to join a company where I will work on **high-performing scalable web applications**, in a collaborative environment, with **friendly**, fun, **focused**, and positive people who really care about the results they produce. I am an advocate of **Agile** so I value if these processes are used.**Pair programming**, **test driven development**, and support to become a **well-rounded technologist** are also big plusses.
+Now, I am very excited to join a company where I will work on **high-performing scalable web applications**, in a collaborative environment, with **friendly**, fun, **focused**, and positive people who really care about the results they produce. I am an advocate of **Agile** so I value if these processes are used. **Pair programming**, **test driven development**, and support to become a **well-rounded technologist** are also big plusses.
 
 
 ## Skills
@@ -62,7 +62,7 @@ A 16-week software development bootcamp.
 - Independent learner and problem-solver.
 - OOP, TDD, SOLID, MVC, DDD, pair programming.
 - Software Craftsmanship, Continuos Integration.
-- Ruby, Rails, Javascript, Node.js, [React.js](http://standupsandretros.herokuapp.com/), Bootstrap, [JQuery](https://github.com/TudorTacal/thermostat), PostgreSQL, AJAX.
+- Ruby, Rails, Javascript, Node.js, [React.js](http://standupsandretros.herokuapp.com/), [Bootstrap](https://makers-bnb-gpmt.herokuapp.com), [JQuery](https://github.com/TudorTacal/thermostat), PostgreSQL, AJAX.
 - Rspec, Jasmine, Mocha, Enzyme, Chai.
 - Agile methoddologies, code reviews, debugging.
 - Additional Tools: [Heroku](http://standupsandretros.herokuapp.com/), [BCrypt](https://github.com/TudorTacal/chitter-challenge), [OmniAuth](https://github.com/TudorTacal/makers-yelp), [Twilio](https://github.com/TudorTacal/takeaway-challenge), [Travis CI](https://travis-ci.org/TudorTacal/)
