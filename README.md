@@ -5,7 +5,7 @@
 
 I am a junior full stack web developer with a background in business development. I specialize in high-performance web applications with an emphasis on **beautiful design**, thus great **UX**. I promote **quality code**, **speed**, and **performance**.
 
-From day 1 I promise to bring a great positive attitude, high energy, focus, hard work and determination to succeed alongside my technical skills. My colleagues from Makers told me I am the most cheerful person there and I believe it's hard to find a more motivated and ambitious person than me. I just make all sort of plans, short term, long term, work related, life related, and then iterate hard to accomplish them.
+From day 1 I promise to bring a great positive attitude, high energy, focus, hard work and determination to succeed alongside my technical skills. My colleagues from Makers told me I am the most cheerful person there and I believe it's hard to find a more motivated and ambitious person than me. 
 
 Now, I am very excited to join a company where I will work on **high-performing scalable web applications**, in a collaborative environment, with **friendly**, fun, **focused**, and positive people who really care about the results they produce. I am an advocate of **Agile** so I value if these processes are used.**Pair programming**, **test driven development**, and support to become a **well-rounded technologist** are also big plusses.
 
@@ -18,7 +18,7 @@ I was fortunate to play a leadership role for the final project at Makers Academ
 
 Presenting with **clarity** and **concision** I've held highly technical **product demonstrations** to non-technical clients when working at **StreamAMG**. The biggest challenge was to read if the client really understood what was going on or just nodded in agreement. This involved asking guiding questions and careful **active listening** for the slightest feedback regarding the product. 
 
-From my point of view communication and **interpersonal skills** are one of the biggest assets a professional must possess, no matter the industry he works in. As I have seen entire businesses and departments being successful or being disrupted by the actions of a single individual. 
+From my point of view communication and **interpersonal skills** are one of the biggest assets a professional must possess, no matter the industry he works in. 
 
 #### Teamwork & Pairing
 
@@ -32,12 +32,12 @@ During the final project at Makers, we just took teamwork to a whole new level. 
 
 I use the **scientific method** to almost every aspect of my life, be it coding, nutrition or human relations. If you don't measure it, you can't grow it or improve it. 
 
-I approach problem-solving by first identifying  the problem and **breaking** it into smaller, more approachable problems. I believe one of my best **strategies** when it comes to problem-solving is to **ask adequate questions**. I frequently ask myself, my pair or the team: *What is the next simplest step that we can tackle?*, *How will this change our situation?* , *What happens if we do this?*.
+I approach problem-solving by first identifying the problem and **breaking** it into smaller, more approachable problems. I believe one of my best **strategies** when it comes to problem-solving is to **ask adequate questions**. I frequently ask myself, my pair or the team: *What is the next simplest step that we can tackle?*, *How will this change our situation?* , *What happens if we do this?*.
 
-I have to admit that one of my successes solving coding problems and **debugging** is **fast iterations**. For example, one of the aspects that I took **responsibility** for in my final project was deploying to **Heroku**. I love to be **Agile** so I recommended that we should deploy to production fast. Thus in our third day, our app was live, we followed tutorials the first day to learn the new technology stack. Although we pushed to production at least once per day, as our app grew the problems started to appear.
+Alongside **intensive research**, one of my strategies to solving coding problems and **debugging** is **fast iterations**. For example, one of the aspects that I took **responsibility** for in my final project was deploying to **Heroku**. I love to be **Agile** so I recommended that we should deploy to production fast. Although we pushed to production at least once per day, as our app grew the problems started to appear.
 
 The deployment process went like this:
-*Make a change in code* -> *Test in the local environment* ->  *Make a commit* -> *Push to Github* -> *Push to Heroku*. We could easily make 10 commits for one problematic push. I had to iterate fast because time was scarce but still used the scientific method to correctly **isolate the problem** so that we learn how to do it properly next time.
+*Make a change in code* -> *Test in the local environment* ->  *Make a commit* -> *Push to Github* -> *Push to Heroku*. We could easily make 10 commits for one problematic push. I had to iterate fast because time was scarce but still used the scientific method to correctly **isolate the problem** so that we'd learn how to do it properly next time.
 
 #### Learning new technologies
 
@@ -68,7 +68,7 @@ A 16-week software development bootcamp.
 - Independent learner and problem-solver.
 - OOP, TDD, SOLID, MVC, DDD, pair programming.
 - Software Craftsmanship, Continuos Integration.
-- Ruby, Rails, Javascript, Node.js, React.js, Bootstrap, [JQuery](https://github.com/TudorTacal/thermostat), PostgreSQL, AJAX.
+- Ruby, Rails, Javascript, Node.js, [React.js](http://standupsandretros.herokuapp.com/), Bootstrap, [JQuery](https://github.com/TudorTacal/thermostat), PostgreSQL, AJAX.
 - Rspec, Jasmine, Mocha, Enzyme, Chai.
 - Agile methoddologies, code reviews, debugging.
 - Additional Tools: [Heroku](http://standupsandretros.herokuapp.com/), [BCrypt](https://github.com/TudorTacal/chitter-challenge), [OmniAuth](https://github.com/TudorTacal/makers-yelp), [Twilio](https://github.com/TudorTacal/takeaway-challenge), [Travis CI](https://travis-ci.org/TudorTacal/)
