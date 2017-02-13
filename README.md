@@ -86,7 +86,6 @@ A 16-week software development bootcamp.
 *Junior Technical Account Manager*
 * Coordinated webcasting projects for companies like Hachette, Target Ovarian Cancer, IFoA, P&O Ferries, Homeserve, and Linkedin.
 * Offered technical assistance for our main platforms and held regular product demonstrations at the head office and online.
-* The diverse workflow gave me the opportunity to learn every aspect of a webcast, starting from the suite of software used up to the multitude of hardware installed on the site. 
 * Designed, built and adapted the microsites used for registering and viewing the webcasts. For this I used HTML5 and CSS3, which i learned by myself from online resources such as [Team Treehouse](teamtreehouse.com), [w3schools](http://www.w3schools.com/) and [Stackoverflow](http://stackoverflow.com/). 
 
 **The Forge** (September 2015 to April 2016)   
@@ -116,7 +115,8 @@ A 16-week software development bootcamp.
 ## Interests
 
 Health and wellbeing have high priority in my life.
-I do fitness, biking, skiing, swimming, running and never refuse an adventure. Proclaimed **table tennis guru** at Makers Academy :)
-I like to read about personal development, philosophy, spirituality and try to meditate at least a couple of times per week. 
-Startups, businesses and financial freedom strategies are always a preferred conversation topic.
+I do fitness, biking, skiing, swimming, running and never refuse an adventure.
+Was proclaimed **table tennis guru** at Makers Academy :)
+I like to **read** about personal development, philosophy, spirituality and try to meditate at least a couple of times per week. 
+**Startups**, businesses and financial freedom strategies are always a preferred conversation topic.
 Moving forward I am excited at the prospect of becoming a parent.
