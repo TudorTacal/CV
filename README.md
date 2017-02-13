@@ -1,38 +1,38 @@
 ## Tudor Dan Tacal
 #### Junior Full Stack Web Developer looking to join an awesome team
-[Skills](#skills) | [Projects]() | [Experience](#experience)| [Education](#education) | [Interests](#interests)
+[Skills](#skills) | [Projects](#projects) | [Experience](#experience)| [Education](#education) | [Interests](#interests)
 
 
 I am a junior full stack web developer with a background in business development. I specialize in high-performance web applications with an emphasis on **beautiful design**, thus great **UX**. I promote **quality code**, **speed**, and **performance**.
 
-From day 1 I promise to bring a great **positive attitude**, high energy, focus, hard work and determination to succeed alongside my technical skills. My colleagues from Makers told me I am the most cheerful person there and I believe it's hard to find a more motivated and ambitious person than me. 
+From day 1 I promise to bring a great **positive attitude**, **high energy**, focus, hard work and determination to succeed alongside my [technical skills](#projects). My colleagues from Makers told me I am the most cheerful person there and I believe it's hard to find a more **motivated** and **ambitious** person than me. 
 
 Now, I am very excited to join a company where I will work on **high-performing scalable web applications**, in a collaborative environment, with **friendly**, fun, **focused**, and positive people who really care about the results they produce. I am an advocate of **Agile** so I value if these processes are used.**Pair programming**, **test driven development**, and support to become a **well-rounded technologist** are also big plusses.
 
 
 ## Skills
 
-#### Communication
+### Communication
 
 I was fortunate to play a leadership role for the final project at Makers Academy. I had to pitch the idea to my colleagues and **unite** a strong team around it. I had a clear **vision** about the technologies involved. I believe the **interpersonal skills** are one of the biggest assets a professional must possess.
 
 Presenting with **clarity** and **concision** I've held highly technical **product demonstrations** to non-technical clients when working at **StreamAMG**. 
 
 
-#### Teamwork & Pairing
+### Teamwork & Pairing
 
 I am highly **adaptable** to any environment. I start slowly, take my time to observe and analyze the system and once I understand how it works I relentlessly increase my contribution in small increments.I believe one of the biggest values that I can bring to a team are **motivation**, **excitement**, and **energy**.
 
 During the final project at Makers, we just took teamwork to a whole new level. We **changed pairs** daily, began with a **stand-up** and finished with a **retro**. We even delegated work for the weekend. The **feedback loop** was incredible, we were communicating our progress constantly and no matter how hard the challenge or the blocks were, I was always repeating to my team *We'll get this done. We'll find a way*. And so we did.
 
-#### Problem solving
+### Problem solving
 
 I use the **scientific method** to almost every aspect of my life, be it coding, nutrition or human relations. I approach problem-solving by first identifying the problem and then **breaking** it into smaller, more approachable problems.
 
 The strategies that I employ to solve problems and for **debugging** are: **accurate research**, **adequate questions** and **fast iterations**. 
 
 
-#### Learning new technologies
+### Learning new technologies
 
 It's amazing to see our progress, we started from the [command line](https://github.com/TudorTacal/clmystery) in the precourse and finished with deploying a **complex web application** deployed on Heroku.
 
@@ -57,6 +57,7 @@ I can state with confidence that I am able to **learn any technology stack** and
 
 A 16-week software development bootcamp.
 
+- All the technologies listed below were used throughout my projects listed above and other Github repositories. 
 - Curiosity and hungry passion for code.
 - Independent learner and problem-solver.
 - OOP, TDD, SOLID, MVC, DDD, pair programming.
