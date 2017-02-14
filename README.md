@@ -84,13 +84,13 @@ A 16-week software development bootcamp.
 
 **StreamAMG** (May 2016 to October 2016)    
 *Junior Technical Account Manager*
-* Coordinated webcasting projects for companies like Hachette, Target Ovarian Cancer, IFoA, P&O Ferries, Homeserve, and Linkedin.
-* Offered technical assistance for our main platforms and held regular product demonstrations at the head office and online.
-* Designed, built and adapted the microsites used for registering and viewing the webcasts. For this I used HTML5 and CSS3, which i learned by myself from online resources such as [Team Treehouse](teamtreehouse.com), [w3schools](http://www.w3schools.com/) and [Stackoverflow](http://stackoverflow.com/). 
+* Coordinated webcasting projects for companies like Hachette, Target Ovarian Cancer, IFoA, P&O Ferries, Homeserve, and Linkedin. Offered technical assistance for our VOD platform and held regular product demonstrations at the head office and online.
+
+* Designed, built and adapted the microsites used for registering and viewing the webcasts. For this I used HTML5 and CSS3, which I learned by myself from online resources such as [Team Treehouse](teamtreehouse.com), [w3schools](http://www.w3schools.com/) and [Stackoverflow](http://stackoverflow.com/). 
 
 **The Forge** (September 2015 to April 2016)   
 *Assistant Manager*
-* Assited the management in virtually every process that was required. After a brief period of adjustment, I was regularly left in charge of managing the operations and staff while the management was not present in the hotel.  
+* Assisted the management in virtually every process that was required. After a brief period of adjustment, I was regularly left in charge of managing the operations and staff while the management was not present in the hotel.  
 
 **Pronovia Gym** (June 2014 to September 2015)   
 *Owner|Business Development Manager*+
@@ -103,8 +103,7 @@ A 16-week software development bootcamp.
 **Edil Real Estate** (September 2013 to July 2014)   
 *Real Estate Consultant*
 * Offered consultancy to my clients and helped them to choose the best option from the available alternatives according to their requirements and budget.
-* Prospecting for leads and properties, educating customers and performing market valuation analysis were all on the agenda.
-* My biggest achievement was to sell a commercial space in the heart of the city, valued at 180.000 euros which represented a significant amount for that market at that time. 
+
 
 ## Interests
 
