@@ -23,7 +23,7 @@ Presenting with clarity and concision I've held highly technical product demonst
 
 I am highly adaptable to any environment. I start slowly, take my time to observe and analyze the system and then I relentlessly increase my contribution in small increments.I believe one of the biggest values that I can bring to a team are motivation, excitement, and energy.
 
-During the final project at Makers, we just took teamwork to a whole new level. We changed pairs daily, began with a stand-up and finished with a retro. We even delegated work for the weekend. The feedback loop was incredible and no matter how hard the challenge or the blocks were, I was always repeating to my team *We'll get this done. We'll find a way*. And so we did.
+During the final project at Makers, we just took teamwork to a whole new level. We changed pairs daily, began with a stand-up and finished with a retro. We even delegated work for the weekend. The feedback loop was incredible and no matter how hard the challenge was, I was constantly repeating to my team *We'll get this done. We'll find a way*. And so we did.
 
 ### Problem solving
 
@@ -36,7 +36,7 @@ The strategies that I employ to solve problems and for debugging are: accurate r
 
 It's amazing to see our progress, we started from the [command line](https://github.com/TudorTacal/clmystery) in the precourse and finished with deploying a complex web application on Heroku.
 
-Every week we had to learn a new language, framework, library, best practice or design pattern. This has made me to become tech agnostic. To showcase this, I learned the basics of the MERN stack in just 2 days for my final project. 
+Every week we had to learn a new language, framework, library, best practice or design pattern. This has made me to become tech agnostic. To showcase this, I learned the basics of the MERN stack in just 4 days for my final project. 
 
 I can state with confidence that I am able to learn any technology stack and get a solid grasp of the basics in under one month, with the right guidance and environment. 
 
