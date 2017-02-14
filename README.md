@@ -93,7 +93,7 @@ A 16-week software development bootcamp.
 * Assisted the management in virtually every process that was required. After a brief period of adjustment, I was regularly left in charge of managing the operations and staff while the management was not present in the hotel.  
 
 **Pronovia Gym** (June 2014 to September 2015)   
-*Owner|Business Development Manager*+
+*Owner|Business Development Manager*
 * Designed the business starting from writing the business plan to renting a space, building the gym and having our first clients.
 
 **Elsanta Strawberry** (July 2014 to August 2015)
