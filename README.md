@@ -3,42 +3,42 @@
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience)| [Education](#education) | [Interests](#interests)
 
 
-I am a junior full stack web developer with a background in business development. I specialize in high-performance web applications with an emphasis on **beautiful design**, thus great **UX**. I promote **quality code**, **speed**, and **performance**.
+I am a junior full stack web developer with a background in business development. I specialize in high-performance web applications with an emphasis on beautiful design, thus great UX. I promote quality code speed, and performance.
 
-From day 1 I promise to bring a great **positive attitude**, **high energy**, focus, hard work and determination to succeed alongside my [technical skills](#projects). My colleagues from Makers told me I am the most cheerful person there and I believe it's hard to find a more **motivated** and **ambitious** person than me. 
+From day 1 I promise to bring a great positive attitude, high energy, focus, hard work and determination to succeed alongside my [technical skills](#projects). My colleagues from Makers told me I was the most cheerful person from our cohort. 
 
-Now, I am very excited to join a company where I will work on **high-performing scalable web applications**, in a collaborative environment, with **friendly**, fun, **focused**, and positive people who really care about the results they produce. I am an advocate of **Agile** so I value if these processes are used. **Pair programming**, **test driven development**, and support to become a **well-rounded technologist** are also big plusses.
+Now, I am very excited to join a company where I will work on high-performing scalable web applications, in a collaborative environment, with friendly, fun, focused, and positive people who really care about the results they produce. I am an advocate of Agile so I value if these processes are used. Pair programming, test driven development, and support to become a well-rounded technologist are also big plusses.
 
 
 ## Skills
 
 ### Communication
 
-I was fortunate to play a leadership role for the [final project](https://github.com/TudorTacal/makers-standups-retros) at Makers Academy. I had to pitch the idea to my colleagues and **unite** a strong team around it. I had a clear **vision** about the technologies involved. I believe the **interpersonal skills** are one of the biggest assets a professional must possess.
+I was fortunate to play a leadership role for the [final project](https://github.com/TudorTacal/makers-standups-retros) at Makers Academy. I had to pitch the idea to my colleagues and unite a strong team around it. I had a clear vision about the technologies involved. I believe the interpersonal skills are one of the biggest assets a professional must possess.
 
-Presenting with **clarity** and **concision** I've held highly technical **product demonstrations** to non-technical clients when working at **StreamAMG**. 
+Presenting with clarity and concision I've held highly technical product demonstrations to non-technical clients when working at StreamAMG. 
 
 
 ### Teamwork & Pairing
 
-I am highly **adaptable** to any environment. I start slowly, take my time to observe and analyze the system and once I understand how it works I relentlessly increase my contribution in small increments.I believe one of the biggest values that I can bring to a team are **motivation**, **excitement**, and **energy**.
+I am highly adaptable to any environment. I start slowly, take my time to observe and analyze the system and then I relentlessly increase my contribution in small increments.I believe one of the biggest values that I can bring to a team are motivation, excitement, and energy.
 
-During the final project at Makers, we just took teamwork to a whole new level. We **changed pairs** daily, began with a **stand-up** and finished with a **retro**. We even delegated work for the weekend. The **feedback loop** was incredible, we were communicating our progress constantly and no matter how hard the challenge or the blocks were, I was always repeating to my team *We'll get this done. We'll find a way*. And so we did.
+During the final project at Makers, we just took teamwork to a whole new level. We changed pairs daily, began with a stand-up and finished with a retro. We even delegated work for the weekend. The feedback loop was incredible and no matter how hard the challenge or the blocks were, I was always repeating to my team *We'll get this done. We'll find a way*. And so we did.
 
 ### Problem solving
 
-I use the **scientific method** to almost every aspect of my life, be it coding, nutrition or human relations. I approach problem-solving by first identifying the problem and then **breaking** it into smaller, more approachable problems.
+I use the scientific method to almost every aspect of my life, be it coding, nutrition or human relations. I approach problem-solving by first identifying the problem and then breaking it into smaller, more approachable problems.
 
-The strategies that I employ to solve problems and for **debugging** are: **accurate research**, **adequate questions** and **fast iterations**. 
+The strategies that I employ to solve problems and for debugging are: accurate research, adequate questions and fast iterations. 
 
 
 ### Learning new technologies
 
-It's amazing to see our progress, we started from the [command line](https://github.com/TudorTacal/clmystery) in the precourse and finished with deploying a **complex web application** on Heroku.
+It's amazing to see our progress, we started from the [command line](https://github.com/TudorTacal/clmystery) in the precourse and finished with deploying a complex web application on Heroku.
 
-Every week we had to learn a new language, framework, library, best practice or design pattern. This has made me to become **tech agnostic**. To showcase this, I learned the basics of the **MERN** stack in just 2 days for my final project. 
+Every week we had to learn a new language, framework, library, best practice or design pattern. This has made me to become tech agnostic. To showcase this, I learned the basics of the MERN stack in just 2 days for my final project. 
 
-I can state with confidence that I am able to **learn any technology stack** and get a solid grasp of the basics in under one month, with the right guidance and environment. 
+I can state with confidence that I am able to learn any technology stack and get a solid grasp of the basics in under one month, with the right guidance and environment. 
 
 ## Projects
 
@@ -90,21 +90,15 @@ A 16-week software development bootcamp.
 
 **The Forge** (September 2015 to April 2016)   
 *Assistant Manager*
-* Provided customer service and account management support services for the hotel and restaurant. 
-* Managed and kept records of customer interactions, complaints, transactions, bookings as well as actions taken, processed orders, forms, and applications.
-* After a brief period of adjustment, I was regularly left in charge of managing the operations and staff while the management was not present in the hotel.  
+* Assited the management in virtually every process that was required. After a brief period of adjustment, I was regularly left in charge of managing the operations and staff while the management was not present in the hotel.  
 
 **Pronovia Gym** (June 2014 to September 2015)   
 *Owner|Business Development Manager*+
 * Designed the business starting from writing the business plan to renting a space, building the gym and having our first clients.
-* Worked around the clock to develop the business, gain new clients, increase the retention rate and improve the systems and standards. 
-* Made use of digital marketing such as a compelling website, landing pages, email marketing and social media to increase the sales and promote the newest services.
 
 **Elsanta Strawberry** (July 2014 to August 2015)
 *Owner|Business Development Manager*
-* I wrote the business plan, designed the plantation in AutoCAD and compiled all the necessary documentation required to start.
-* Networked and found the contacts, partners, suppliers and negotiated at every step for the resources needed to build the project.
-* Oversaw the field works, motivated the workers to respect the imposed standards and put in place the distribution network and logistics behind the packaging and delivery of the product.
+* Built a modern strawberry planation and put in place all the logistics behind it. 
 
 **Edil Real Estate** (September 2013 to July 2014)   
 *Real Estate Consultant*
@@ -116,7 +110,7 @@ A 16-week software development bootcamp.
 
 Health and wellbeing have high priority in my life.
 I do fitness, biking, skiing, swimming, running and never refuse an adventure.
-Was proclaimed **table tennis guru** at Makers Academy :)
-I like to **read** about personal development, philosophy, spirituality and try to meditate at least a couple of times per week. 
-**Startups**, businesses and financial freedom strategies are always a preferred conversation topic.
+Was proclaimed table tennis guru at Makers Academy :)
+I like to read about personal development, philosophy, spirituality and try to meditate at least a couple of times per week. 
+Startups, businesses and financial freedom strategies are always a preferred conversation topic.
 Moving forward I am excited at the prospect of becoming a parent.
