@@ -84,7 +84,7 @@ A 16-week software development bootcamp.
 
 **StreamAMG** (May 2016 to October 2016)    
 *Junior Technical Account Manager*
-* Coordinated webcasting projects for companies like Hachette, Target Ovarian Cancer, IFoA, P&O Ferries, Homeserve, and Linkedin. Offered technical assistance for our VOD platform and held regular product demonstrations at the head office and online.
+* Coordinated webcasting projects for companies like Hachette, Target Ovarian Cancer, IFoA, P&O Ferries, Homeserve, and Linkedin. Offered technical assistance for the VOD platform and held regular product demonstrations at the head office and online.
 
 * Designed, built and adapted the microsites used for registering and viewing the webcasts. For this I used HTML5 and CSS3, which I learned by myself from online resources such as [Team Treehouse](teamtreehouse.com), [w3schools](http://www.w3schools.com/) and [Stackoverflow](http://stackoverflow.com/). 
 
