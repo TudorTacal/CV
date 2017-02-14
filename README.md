@@ -3,7 +3,7 @@
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience)| [Education](#education) | [Interests](#interests)
 
 
-I am a junior full stack web developer with a background in business development. I specialize in high-performance web applications with an emphasis on beautiful design, thus great UX. I promote quality code speed, and performance.
+I am a junior full stack web developer with a background in business development. I specialize in high-performance web applications with an emphasis on beautiful design, thus great UX. I promote quality code, speed, and performance. OOD is a given.
 
 From day 1 I promise to bring a great positive attitude, high energy, focus, hard work and determination to succeed alongside my [technical skills](#projects). My colleagues from Makers told me I was the most cheerful person from our cohort. 
 
