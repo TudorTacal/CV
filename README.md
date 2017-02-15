@@ -98,7 +98,7 @@ A 16-week software development bootcamp.
 
 **Elsanta Strawberry** (July 2014 to August 2015)
 *Owner|Business Development Manager*
-* Built a modern strawberry planation and put in place all the logistics behind it. 
+* Built a modern strawberry plantion and put in place all the logistics behind it. 
 
 **Edil Real Estate** (September 2013 to July 2014)   
 *Real Estate Consultant*
