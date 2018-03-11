@@ -1,27 +1,67 @@
 ## Tudor Dan Tacal
-#### Junior Full Stack Web Developer looking to join an awesome team
+#### Software Development and Delivery
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience)| [Education](#education) | [Interests](#interests)
 
 
-I am a junior full stack web developer with a background in business development. I specialize in high-performance web applications with an emphasis on beautiful design, thus great UX. I promote quality code, speed, and performance. OOD is a given.
+I am a software engineer with a passion for business. I specialize in high-performance web applications with an emphasis on UI and delivery. So far I have built and delivered to production 2 projects being part of self managed Agile teams. I promote quality code, speed,  performance, communication and getting things done.
 
-From day 1 I promise to bring a great positive attitude, high energy, focus, hard work and determination to succeed alongside my [technical skills](#projects). My colleagues from Makers told me I was the most cheerful person from our cohort. 
+Although my heart lies with ReactJS I have worked across the full stack since the beginning of my journey. Lately I find myslef more involved with delivering the products to the clients, that means DevOps, pipelines and AWS. 
 
-Now, I am very excited to join a company where I will work on high-performing scalable web applications, in a collaborative environment, with friendly, fun, focused, and positive people who really care about the results they produce. I am an advocate of Agile so I value if these processes are used. Pair programming, test driven development, and support to become a well-rounded technologist are also big plusses.
+A few words that characterize myself are: a great positive attitude, high energy, focus, hard work, determination to succeed, focus on delivery.
 
+My favourite environment would use Agile practices, Lean principles, self managed teams, an open culture and continuous delivery. Having a Scrum Master mentality I belive I can bring a positive touch to any team, no matter of the tech stack or project phase. 
 
 ## Skills
 
+### Tech
+
+I consider myself a full stack engineer although I do have my favourites like ReactJS and the surrounding technologies. Some of the technologies I've worked with so far are:
+
+Languages and frameworks: JavaScript, ReactJS(Webpack, Babel), ASP.NET Core (2.0) MVC, C# NodeJS, Java, Dropwizzard, Ruby ,Ruby on Rails, XML.
+
+Continuous Integration and Continuous Delivery: Git version control, Jenkins, GoCD, pipelines to make complex build workflows easy.
+
+Platforms and Infrastructure: AWS, Terraform, Ansible, experiments using Docker & Kubernetes.
+
+Tests automation tools and frameworks: Jasmine, Karma, Jest, NUnit, XUnit.
+
+Databases: DynamoDB, MongoDB, PostgreSQL.
+
+Monitoring tools: Splunk, CloudWatch, Piwik, Kibana, Logstash, Google Analytics.
+
+Looking forward to the blockchain stack: Bitcoin, Ethereum, Solidity, dApps.
+
+### Project Management
+
+During my work in the Workflows team at LexisNexis, I have volunteered to be the Scrum Master in a time of massive change towards Agile methodologies & Lean principles.
+
+Embracing the opportunity to work closely with the PO and tech lead and gave me a clear understanding on how a self managed development team should work in order to deliver successfuly.  
+
+I then applied all my knowledge about sprints, product, standups, retros, backlog management, velocity, positive interaction with the nearby stakeholders, team motivation and many other principles in the other teams I have worked with. 
+
 ### Communication
 
-I was fortunate to play a leadership role for the [final project](https://github.com/TudorTacal/makers-standups-retros) at Makers Academy. I had to pitch the idea to my colleagues and unite a strong team around it. I had a clear vision about the technologies involved. I believe the interpersonal skills are one of the biggest assets a professional must possess.
+I express myself with clarity and confidence making sure the interlocuters are engaged and on the same page. In general, and when pairing in particular, I find it easy to express my thought process and acurately articulate my ideas. 
 
-Presenting with clarity and concision I've held highly technical product demonstrations to non-technical clients when working at StreamAMG. 
+I take great pleasure in having 1-1's, feedback sessions, presenting, showcasing and everything related to human interactions. I am not afraid to ask dificult questions and from the feedback gathered it seems that I doing quite a good job.
+
+At Lexis Nexis I made deliberate efforts to improve my communication skills, learning from our ThoughtWorks colleagus, who paid incredible attention to each word and it's impact especially during product demonstrations. At Makers I had to pitch an idea for the final project which got chosen and so far in my career I always had to present, persuade or sell.
+
+
+### Best practices: Teamwork, Pair programming, Problem solving & Learning new technologies
+
+I am highly adaptable to any environment but I prefer the XP values. All my technical work has been done in teams, be it Lexis Nexis, Makers Academy or StreamAMG. I thrive and prefer a well rounded team comprised of devs, tech lead, PO, QA's and with occasional support from PM's, architects, etc.
+
+I like to do pair programming especially when I am working with new technologies or when I am helping somebody pick up a new technology. I believe it just knocks the time spent on the learning curve and makes the code much better. I do all styles: ping pong, unstructured, time based, test based, mob programming, etc. Sometimes, I do prefer to work on my own, in particular when I know exactly what I am doing, I just like to get in the zone and iterate.
+
+When it comes to problem solving I use the scientific method. I like to make assumptions and validate them. I then break the big problem into smaller, more approachable problems. My guiding question is: "What's the smallest step I can do to solve this problem ?". Other strategies I employ are: accurate and persistent research(Google is your friend), adequate questions, fast iterations and I am not afraid to engage other colleagues from different teams. 
+
+Because of the nature of our craft, I can state with confidence that I am able to learn any technology stack and get a solid grasp of the basics in under one month, with the right guidance and environment. Be it React, Asp.NET, Java, Docker or SQL.
 
 
 ### Teamwork & Pairing
 
-I am highly adaptable to any environment. I start slowly, take my time to observe and analyze the system and then I relentlessly increase my contribution in small increments.I believe one of the biggest values that I can bring to a team are motivation, excitement, and energy.
+I am highly adaptable to any environment. I start slowly, take my time to observe and analyze the system and then I relentlessly increase my contribution in small increments. I believe one of the biggest values that I can bring to a team are motivation, excitement, and energy.
 
 During the final project at Makers, we just took teamwork to a whole new level. We changed pairs daily, began with a stand-up and finished with a retro. We even delegated work for the weekend. The feedback loop was incredible and no matter how hard the challenge was, I was constantly repeating to my team *We'll get this done. We'll find a way*. And so we did.
 
